@@ -10,6 +10,10 @@ Welcome to **codegen-oss**, the open-source hub of Codegen! This is where we sha
 
 At Codegen, we believe in giving back to the community. We are passionate about contributing to projects that make life easier for developers, whether you’re working on code migrations, accessibility improvements, or building more scalable and maintainable software. Our open-source projects reflect our commitment to creating tools that are reliable, efficient, and easy to use.
 
+## Getting Started
+
+The fastest way to get started is usually by perusing [codegen-oss/solutions](https://github.com/codegen-oss/solutions/) for a relevant example of a problem you'd like to solve using Codegen.
+
 ## Community and Support
 
 If you have questions or need support with any of our open-source projects, feel free to open an issue or join our community discussions. You can also reach us through the following channels:
