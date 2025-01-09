@@ -2,9 +2,7 @@
 
 Welcome to **codegen-oss**, the open-source hub of Codegen! This is where we share and maintain our contributions to the broader developer ecosystem, making high-quality tools and libraries available for everyone. Our focus is on building tools that empower developers to solve complex codebase challenges, improve code quality, and enhance productivity at scale.
 
-<a href="https://discord.gg/codegen">
-    <img src="https://github.com/user-attachments/assets/b45f748d-a0ea-4028-8e65-df68e787c95a" alt="join-discord" style="width:250px;"/>
-</a>
+[![Join Slack](https://img.shields.io/badge/Join-Slack-blue)](https://join.slack.com/t/codegen-oss/shared_invite/zt-2xkoq2d1e-z5rC8qaqWJGKL26Rd1~Usg)
 
 ## Our Open Source Mission
 
